@@ -1,6 +1,6 @@
 # hackpad
 
-This is my submission for the hackpad mission! This is my first time using KiCad and Autodesk Fusion so I'm not very experienced. Decided to make this because I wanted to make some automation easier.
+This is my submission for the hackpad mission! This is my first time using KiCad and Autodesk Fusion so I'm not very experienced. Decided to make this because I wanted to make some automation easier, as it binds the keys to F13-19, which are unused usually.
 
 It also includes a bongo cat animation, that activates when you press any key on the macropad. Code is from github over [here](https://github.com/qmk/qmk_firmware/pull/19334/changes).
 
